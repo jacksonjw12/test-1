@@ -1,1 +1,3 @@
-console.log('from github');
+jsonWrap({
+    a: 123
+});
