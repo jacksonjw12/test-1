@@ -21,8 +21,9 @@
 - box-sizing 取值和作用?
 - 如何设置超出的文字变成省略号?
 - 如何清除浮动?
-- 2栏固定, 中间自适应如何布局?
-- 垂直水平居中的方法
+- 隐藏元素的几种方法?
+- a 标签伪类顺序?
+- 单行文本如何垂直居中? 其他的垂直居中的方法? 
 - margin collapse怎么理解?
 - bfc, ifc怎么理解?
 
@@ -36,9 +37,8 @@ css3/html5:
 
 - 获取节点的方法? getElementsByClassName 如果不能用怎么处理
 - 如何操作属性?
-- arguments是什么?
-- call, apply什么作用
 - 有几种数据类型? 6
+- call, apply什么作用, arguments是什么?
 - 闭包的概念?
 - js浮点数有什么坑?
 - js作用域于传统的语言有什么区别? (没有块级作用域)
@@ -46,7 +46,13 @@ css3/html5:
 - 如何实现继承?
 - 为什么说setTimeout这个东西时间不准确?
 - 如何准确判断一个array的类型?
-- promise的基本方法有什么? resolve, reject,
+- promise的基本方法有什么? resolve, reject
+
+#### 正则表达式
+
+- i,m,g的后缀区别
+- 如何分组? 分组匹配?
+- 贪婪模式? 非贪婪模式?
 
 nodejs:
 
@@ -60,8 +66,10 @@ nodejs:
 jquery:
 
 - 常用的选择器有什么?
-- 选择器内核selector engine是什么? 基本的选择思路是什么?
-- jquery的链式调用是啥?
+- 选择器内核selector engine是什么? 基本的选择思路是什么? 内部实现?
+- click和on的区别, 事件委托是什么? 如何阻止默认冒泡?
+- ajax 常用参数, type中的get post什么区别? jsonp的原理是什么? 
+- $.extend和$.fn 怎么使用
 - 如何选择兄弟元素?
 - html, text的区别?
 - 如何扩展过滤选择器?
