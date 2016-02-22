@@ -65,8 +65,9 @@ nodejs:
 
 jquery:
 
-- 常用的选择器有什么?
+- 常用选择器有什么?
 - 选择器内核selector engine是什么? 基本的选择思路是什么? 内部实现?
+- 链式调用是什么? 大概的原理?
 - click和on的区别, 事件委托是什么? 如何阻止默认冒泡?
 - ajax 常用参数, type中的get post什么区别? jsonp的原理是什么? 
 - $.extend和$.fn 怎么使用
