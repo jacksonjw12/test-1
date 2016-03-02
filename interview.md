@@ -48,6 +48,7 @@ css3/html5:
 - 为什么说setTimeout这个东西时间不准确?
 - 如何准确判断一个array的类型?
 - promise的基本方法有什么? resolve, reject
+- spa了解程度?
 
 #### 正则表达式
 
