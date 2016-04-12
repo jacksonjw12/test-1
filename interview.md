@@ -49,6 +49,7 @@ css3/html5:
 - 如何准确判断一个array的类型?
 - promise的基本方法有什么? resolve, reject
 - spa了解程度?
+- 跨域的几种方式与区别
 
 #### 正则表达式
 
